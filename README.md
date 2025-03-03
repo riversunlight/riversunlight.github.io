@@ -1,2 +1,6 @@
 # riversunlight.github.io
-riversunlightホームページ
+
+riversunlight ホームページ
+
+作りたかったから作りました。  
+ホームページおよびポートフォリオとして作成する予定です。
