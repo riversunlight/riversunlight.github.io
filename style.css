@@ -5,3 +5,21 @@
 .footer {
   background-color: green;
 }
+
+.tabs {
+  display: flex;
+  justify-content: space-around;
+}
+
+.tab {
+  cursor: pointer;
+}
+
+.tab:hover {
+  background-color: lightgreen;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
