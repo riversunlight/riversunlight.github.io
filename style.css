@@ -1,9 +1,14 @@
+body {
+  margin: 0px;
+}
 .header {
   background-color: green;
+  margin: 10px;
 }
 
 .footer {
   background-color: green;
+  margin: 10px;
 }
 
 .tabs {
@@ -22,4 +27,21 @@
 a {
   text-decoration: none;
   color: black;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+table tr:nth-child(odd) {
+  background-color: #ddffdd;
+}
+
+h2 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.content {
+  padding: 10px;
 }
