@@ -34,7 +34,15 @@ table {
 }
 
 table tr:nth-child(odd) {
-  background-color: #ddffdd;
+  background-color: #bbeebb;
+}
+
+table tr:nth-child(even) {
+  background-color: #ccffcc;
+}
+
+table td {
+  padding-right: 50px;
 }
 
 h2 {
